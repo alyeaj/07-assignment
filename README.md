@@ -44,4 +44,4 @@ This what the pages were supposed to look like:
 
 
 ## Process 
-This was not as tedious as the last assignment and it was pretty easy despite the errors and mistakes made. I liked be able to customize the idex.html pages and the style.css page and designing the website to look how I want. That was the funnest part and the time I spent most on. Most of the errors mainly came from mistyping and forgetting a step.
+This was not as tedious as the last assignment and it was pretty easy despite the errors and mistakes made. I liked be able to customize the idex.html pages and the style.css page and designing the website to look how I want. That was the funnest part and the time I spent most on. Most of the errors mainly came from mistyping and forgetting a step. Though I was getting frustrated as to why my changes weren't being saved. Could be that I didn't change the name of the forked repository but that would make any sense. I did rename the repository though I think that might have confused things. It seemed like a simple assignment yet I'm still not used to using the droplets.
