@@ -22,8 +22,8 @@ function workingHours(req, res, next) {
 
   const normalBusinessHours = {
     // 24 hour time
-    open: 9,
-    close: 17,
+    open: 10,
+    close: 18,
   };
 
   // check if within normal business hours
@@ -34,14 +34,14 @@ function workingHours(req, res, next) {
 
     // if so, point the request to our static files
     console.log('Open!');
-    req.url = 'chauncey-gardiner-resume.pdf';
+    req.url = 'index.html';
     next();
 
   } else {
     
     // otherwise, return the denial
     console.log('Closed 🔒');
-    req.url = 'denied.html';
+    req.url = 'deny.html';
     next();
 
   }
